@@ -1,8 +1,4 @@
-package Package_01;
-
-import java.lang.reflect.Array;
-import java.util.List;
-import java.util.Scanner;
+package Reverse;
 
 public class ReverseStringBuilder {
 
